@@ -25,5 +25,5 @@ setup(
 				python-library
 				python-anticaptcha
 				anticaptcha-client''',
-	python_requires='>=3.6',
+	python_requires='>=3.5',
 )
